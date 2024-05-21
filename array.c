@@ -15,6 +15,7 @@ int const rows = 2;
       printf("%d ", x[i][j]);
     }
     printf("\n");
+  
   }
 
 
