@@ -1,12 +1,9 @@
 #include <stdio.h> // Include standard input/output header
 
-int main() { 
+int main()
+  { 
 
-  FILE* fptr;
+printf("hello world ");
 
-
-
-
-  fclose(fptr);
   return 0;
 }
