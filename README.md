@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/profile-banner.png" alt="Hafidh Bakari Juma — SOC Analyst, Detection Engineering, Luxembourg" style="max-width: 100%;">
+  <img src="asset/profile-banner.png" alt="Hafidh Bakari Juma — SOC Analyst, Detection Engineering, Luxembourg" style="max-width: 100%;">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hafidh-bakari-7551bb291/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:hafidhbakar504@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://github.com/hafidhbakarjuma?tab=repositories">All repositories</a>
+  <a href="https://www.linkedin.com/in/hafidh-bakari-7551bb291/"><img src="https://img.shields.io/badge/LinkedIn-Hafidh_Bakari_Juma-0a66c2?style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:hafidhbakar504@gmail.com"><img src="https://img.shields.io/badge/Email-hafidhbakar504@gmail.com-0f766e?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/hafidhbakarjuma?tab=repositories"><img src="https://img.shields.io/badge/GitHub-All_repositories-334155?style=flat-square&logo=github&logoColor=white" alt="All repositories"></a>
 </p>
 
 ## I build the lab, break it, then detect it.
